@@ -4,7 +4,10 @@
 
 **[Data Engineer and Business Intelligence Engineer]**
 
-I design and build cloud native data platforms on Azure, Microsoft Fabric, and open source data engineering tools, turning fragmented, messy data into reliable pipelines and real time insight. With 4  years building Data Engineering solutions across aviation, oil & gas, logistics, FinTech and energy sectors.
+I build data systems that turn raw data into something teams can rely on.
+As a Data Engineer, I have worked on designing and optimizing data pipelines, handling large scale data processing, and supporting both real time and batch workflows. My focus is on making data reliable, accessible, and efficient for analytics and decision making.
+I have worked with SQL, Python, and modern data tools across cloud environments, including Azure, Microsoft Fabric, AWS, and open source tools like Kafka and Airflow, contributing to systems that support reporting, product analytics, and business operations.
+I enjoy solving problems around performance, data quality, and scalability, especially in environments where data plays a critical role in day to day decisions.
 
 ---
 
