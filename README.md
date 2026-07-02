@@ -36,9 +36,9 @@ I design and build cloud native data platforms on Azure, Microsoft Fabric, and o
 
 ## 📌 Featured Projects
 
-- **[Real-Time Duplicate Payment Detection & Idempotency Enforcement](https://github.com/bolt20276/duplicate-payment-detection)** — Kafka, Redis, PostgreSQL, Airflow, and Grafana pipeline for detecting duplicate FinTech transactions in real time.
-- **[Intelligent Financial Operations Analytics Platform](https://github.com/bolt20276/Financial-Operations-finops--analytics-platform)** — End-to-end Microsoft Fabric pipeline (Aiven MySQL, Supabase, Google Sheets → medallion architecture → Fabric Warehouse star schema).
-- **[Python for ML Data Processing](https://github.com/bolt20276/Python-for-ML-Data-Processing)** — Machine learning pipeline in Microsoft Fabric using Python (Polars, scikit-learn) and medallion architecture to predict customer churn from e-commerce data.
+- **[Real-Time Duplicate Payment Detection & Idempotency Enforcement](https://github.com/bolt20276/duplicate-payment-detection)**: Kafka, Redis, PostgreSQL, Airflow, and Grafana pipeline for detecting duplicate FinTech transactions in real time.
+- **[Intelligent Financial Operations Analytics Platform](https://github.com/bolt20276/Financial-Operations-finops--analytics-platform)**: End-to-end Microsoft Fabric pipeline (Aiven MySQL, Supabase, Google Sheets → medallion architecture → Fabric Warehouse star schema).
+- **[Python for ML Data Processing](https://github.com/bolt20276/Python-for-ML-Data-Processing)**: Machine learning pipeline in Microsoft Fabric using Python (Polars, scikit-learn) and medallion architecture to predict customer churn from e-commerce data.
 
 
 ## 🌐 Find Me
