@@ -4,7 +4,7 @@
 
 **[Data Engineer and Business Intelligence Engineer]**
 
-[I design and build cloud native data platforms on Azure, Microsoft Fabric, and open source data engineering tools, turning fragmented, messy data into reliable pipelines and real time insight. With 4  years building Data Engineering solutions across aviation, oil & gas, logistics, FinTech and energy sectors.]
+I design and build cloud native data platforms on Azure, Microsoft Fabric, and open source data engineering tools, turning fragmented, messy data into reliable pipelines and real time insight. With 4  years building Data Engineering solutions across aviation, oil & gas, logistics, FinTech and energy sectors.
 
 ---
 
@@ -14,9 +14,6 @@
 [![DP-600](https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-blue)](https://learn.microsoft.com/api/credentials/share/en-us/BernardNdianaobong-1375/3FDA3A41E7857047?sharingId=FFF0DC40420B30AE)
 [![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4)](https://learn.microsoft.com/api/credentials/share/en-us/BernardNdianaobong-1375/FC1B1D9308C3F3B2?sharingId=FFF0DC40420B30AE)
 [![AZ-305](https://img.shields.io/badge/AZ--305-Azure%20Solutions%20Architect-5C2D91)](https://learn.microsoft.com/api/credentials/share/en-us/BernardNdianaobong-1375/540C920B7E4953ED?sharingId=FFF0DC40420B30AE)
-
-
-## 🛠️ Skills
 
 ## 🛠️ Skills
 
@@ -43,6 +40,12 @@
 - **[Intelligent Financial Operations Analytics Platform](https://github.com/bolt20276/Financial-Operations-finops--analytics-platform)** — End-to-end Microsoft Fabric pipeline (Aiven MySQL, Supabase, Google Sheets → medallion architecture → Fabric Warehouse star schema).
 - **[Python for ML Data Processing](LINK_TO_REPO)** — Machine learning pipeline in Microsoft Fabric using Python (Polars, scikit-learn) and medallion architecture to predict customer churn from e-commerce data.
 
-## 🌐 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[YOUR_LINKEDIN_HANDLE]-0077B5?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/ndianaobongbernard-60568321b)
+## 🌐 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ndianaobongbernard-60568321b/)
+
+📍 Lagos, Nigeria
+
+💡 Data Engineer | Microsoft Fabric | Azure | AWS | Open Source
+
